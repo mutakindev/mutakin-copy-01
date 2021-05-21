@@ -9,7 +9,7 @@ sections:
         url: /contact
         style: primary
     image: images/profile.jpg
-    image_alt: A smiling woman
+    image_alt: Mutakin image
     media_position: right
     media_width: fifty
     align: left
