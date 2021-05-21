@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Mutakin. I help my clients succeed online.'
-    subtitle: >-
-      I will make your website and build your idea to an app, social media
-      accounts and digital advertisements for you, at an affordable price.
+    subtitle: I will make your website and build your idea to an app
     actions:
       - label: Contact Me
         url: /contact
