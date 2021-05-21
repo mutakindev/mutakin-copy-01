@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Mutakin. I help my clients succeed online.'
     subtitle: >-
-      I will your website design and production, social media accounts and
+      I will make your website design and production, social media accounts and
       digital advertisements for you, at an affordable price.
     actions:
       - label: Contact Me
