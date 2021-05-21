@@ -123,9 +123,9 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: >
+          Mutakin really understands who our customers are and what tone of
+          voice to use when communicating with them.
 
 
           **Miles Tone,** *CEO, Studio*
