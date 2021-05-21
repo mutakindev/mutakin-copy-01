@@ -8,7 +8,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: images/profile.jpg
+    image: images/IMG_20201104_134729.jpg
     image_alt: Mutakin image
     media_position: right
     media_width: fifty
