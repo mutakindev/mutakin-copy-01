@@ -114,8 +114,8 @@ sections:
     title: Testimonials
     subtitle: What My Clients Say
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
+      - content: >
+          Mutakin is an amazing content writer. She helped us produce microcopy
           for our apps in all levels of user touchpoints.
 
 
