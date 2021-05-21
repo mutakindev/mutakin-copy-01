@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Mutakin. I help my clients succeed online.'
-    subtitle: 'I will make your website and i can develop '
+    subtitle: 'I will make your website and i can develop app '
     actions:
       - label: Contact Me
         url: /contact
